@@ -7,4 +7,4 @@ https://raw.fastgit.org/
 
 https://raw-gh.gcdn.mirr.one/
 
-https://cdn.jsdelivr.net/gh/ 用户/仓库@main/子目录/txt.txt
+https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/txt.txt
