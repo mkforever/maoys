@@ -451,94 +451,7 @@
       "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXB/mtv.json"
     },
-    //{
-      "key": "小宝影院",
-      "name": "⛄️小宝影院+",
-      "type": 3,
-      "api": "csp_Xiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    //{
-      "key": "csp_biubiu_hdmoli",
-      "name": "🚀hdmoli(XB)+",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXB/hdmoli.json"
-    },
-    //{
-      "key": "csp_DY1990",
-      "name": "📀1990电影(SP)+",
-      "type": 3,
-      "api": "csp_DY1990",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    //{
-      "key": "If101",
-      "name": "If101+",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    //{
-      "key": "csp_LiteApple",
-      "name": "🍎小苹果(SP)+",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    //{
-      "key": "csp_Zxzj",
-      "name": "🐼在线之家(SP)+",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    //{
-      "key": "csp_xpath_duboku",
-      "name": "独播库(XPMac)+",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXP/duboku2.json"
-    },
-    //{
-      "key": "___xmf哔",
-      "name": "哔嘀+",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXP/bidi.json"
-    },
-    //{
-      "key": "csp_biubiu_奈菲影院",
-      "name": "🌈奈菲影院(XB)+",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXB/nfyy.json"
-    },
  
-//M浏览器中APP影视规则支持(AppYsV2) 萝卜/白菜/木白/绿豆",
-
     {
       "key": "csp_appysv2_追剧TV",
       "name": "追剧TV(萝卜)",
@@ -1079,7 +992,7 @@
       "filterable": 1,
       "ext": "https://www.69mj.com/api.php/v1.vod"
     },
-//神马
+
     {
       "key": "csp_appysv2_影视阁",
       "name": "影视阁(神马)",
@@ -1251,7 +1164,7 @@
       "ext": "http://phoebe.cf/api.php/iptv/vod/"
     },
 
-//广大侠 资源网采集M 官方解析
+
     {
       "key": "诺讯资源",
       "name": "诺讯资源(官)",
@@ -1423,7 +1336,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//切片资源
+
     {
       "key": "极速BT资源",
       "name": "极速BT资源(切)",
@@ -1766,7 +1679,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//优质资源
+
     {
       "key": "U酷资源",
       "name": "U酷资源(优)",
@@ -2007,7 +1920,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-//三方聚合
+
     {
       "key": "影图",
       "name": "影图(聚)",
@@ -3289,5 +3202,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/0630.jar"
+  "spider": "https://mkforever.github.io/0630b.jar"
 }
