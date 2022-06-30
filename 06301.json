@@ -451,7 +451,7 @@
       "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXB/mtv.json"
     },
-    {
+    //{
       "key": "小宝影院",
       "name": "⛄️小宝影院+",
       "type": 3,
@@ -460,7 +460,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_biubiu_hdmoli",
       "name": "🚀hdmoli(XB)+",
       "type": 3,
@@ -470,7 +470,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXB/hdmoli.json"
     },
-    {
+    //{
       "key": "csp_DY1990",
       "name": "📀1990电影(SP)+",
       "type": 3,
@@ -479,7 +479,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "If101",
       "name": "If101+",
       "type": 3,
@@ -488,7 +488,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_LiteApple",
       "name": "🍎小苹果(SP)+",
       "type": 3,
@@ -497,7 +497,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_Zxzj",
       "name": "🐼在线之家(SP)+",
       "type": 3,
@@ -506,7 +506,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+    //{
       "key": "csp_xpath_duboku",
       "name": "独播库(XPMac)+",
       "type": 3,
@@ -516,7 +516,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXP/duboku2.json"
     },
-    {
+    //{
       "key": "___xmf哔",
       "name": "哔嘀+",
       "type": 3,
@@ -526,7 +526,7 @@
       "filterable": 1,
       "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXP/bidi.json"
     },
-    {
+    //{
       "key": "csp_biubiu_奈菲影院",
       "name": "🌈奈菲影院(XB)+",
       "type": 3,
@@ -536,14 +536,9 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/mkforever/maoys@main/0630/MaooXB/nfyy.json"
     },
-    {
-      "key": "M浏览器中APP影视规则支持(AppYsV2) 萝卜/白菜/木白/绿豆",
-      "name": "分隔符",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
+//M浏览器中APP影视规则支持(AppYsV2) 萝卜/白菜/木白/绿豆",
+
     {
       "key": "csp_appysv2_追剧TV",
       "name": "追剧TV(萝卜)",
@@ -1084,14 +1079,7 @@
       "filterable": 1,
       "ext": "https://www.69mj.com/api.php/v1.vod"
     },
-    {
-      "key": "神马",
-      "name": "分隔符",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+//神马
     {
       "key": "csp_appysv2_影视阁",
       "name": "影视阁(神马)",
@@ -1262,14 +1250,8 @@
       "filterable": 1,
       "ext": "http://phoebe.cf/api.php/iptv/vod/"
     },
-    {
-      "key": "广大侠 资源网采集M 官方解析",
-      "name": "分隔符",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+//广大侠 资源网采集M 官方解析
     {
       "key": "诺讯资源",
       "name": "诺讯资源(官)",
@@ -1441,14 +1423,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "切片资源",
-      "name": "分隔符",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+//切片资源
     {
       "key": "极速BT资源",
       "name": "极速BT资源(切)",
@@ -1791,14 +1766,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "优质资源",
-      "name": "分隔符",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+//优质资源
     {
       "key": "U酷资源",
       "name": "U酷资源(优)",
@@ -2039,14 +2007,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "三方聚合",
-      "name": "分隔符",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+//三方聚合
     {
       "key": "影图",
       "name": "影图(聚)",
